@@ -23,7 +23,7 @@ SUPPORT_CHAT = int(os.environ.get("SUPPORT_CHAT", -1001207787457))
 
 logger.info("Starting Telegraph Instance")
 telegraph = Telegraph()
-telegraph.create_account(short_name="Auto Manga", author_name="AutoMangaBot", author_url="http://t.me/AutoMangaBot")
+telegraph.create_account(short_name="NOOB", author_name="URL Bypasser Bot", author_url="http://t.me/URLBYPASSERBOT")
 
 
 logger.info("Starting Pyrogram Instance")
